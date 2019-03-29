@@ -1,5 +1,5 @@
 # Useful links
-#### This is the list of good resources related to some topics.
+#### This is the list of good resources related to some topics maintained mainly for begineers.
 
 ### Please submit a pull request to contribute. 
 
