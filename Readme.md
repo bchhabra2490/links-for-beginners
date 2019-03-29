@@ -22,6 +22,7 @@
 - https://medium.com/tribalscale/tutorial-on-testing-react-part-1-2c587e39114d - Testing ReactJS
 - https://medium.freecodecamp.org/how-to-use-reactjs-with-webpack-4-babel-7-and-material-design-ff754586f618 - **How to use ReactJS with Webpack 4, Babel 7, and Material Design**
 - https://blog.andrewray.me/webpack-when-to-use-and-why/ - Webpack basics
+- https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70 - Airbnb blog: Lazy loading
 
 
 ## Fundamentals
@@ -30,7 +31,6 @@
 - https://medium.com/@vaidehijoshi - Computer Blog
   - https://medium.com/basecs
 - https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f - OS Basics
-- https://medium.com/airbnb-engineering/server-rendering-code-splitting-and-lazy-loading-with-react-router-v4-bfe596a6af70
 - https://philipwalton.com/articles/responsive-components-a-solution-to-the-container-queries-problem/
 - https://12factor.net/ - 12 Factor App Methodology
 - https://swagger.io/ - Swagger, API Planning
