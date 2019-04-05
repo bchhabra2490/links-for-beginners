@@ -63,6 +63,10 @@
 - https://www.katacoda.com/courses/docker - Practise docker
 - https://hbswk.hbs.edu/item/the-truck-driver-who-reinvented-shipping - Docker
 
+## Kubernetes
+- https://medium.freecodecamp.org/learn-kubernetes-in-under-3-hours-a-detailed-guide-to-orchestrating-containers-114ff420e882
+- https://medium.com/google-cloud/kubernetes-110-your-first-deployment-bf123c1d3f8
+
 ## DataScience
 - https://hackernoon.com/interviews-with-machine-learning-heroes-504762ba5dd6?gi=37e47fa1a36e
 - https://medium.com/cracking-the-data-science-interview/16-useful-advices-for-aspiring-data-scientists-804ce5611939
